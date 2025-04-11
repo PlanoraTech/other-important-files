@@ -1,6 +1,6 @@
 ![Image](https://github.com/user-attachments/assets/429968dc-036d-46be-ace2-c39ba5023bf2)
 # Planora
-This repository contains important files related to Planora, a comprehensive all-in-one institution management system.
+This repository contains important files related to **Planora**, a comprehensive all-in-one institution management system.
 
 ## Database Model: planora.png
 The database model of the project is represented visually in the image below.
