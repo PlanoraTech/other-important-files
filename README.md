@@ -21,5 +21,5 @@ psql -U your-username -f path/to/Planora-PostgreSQL_Dump.sql
 ## Manual Tests: Planora-Web_Frontend-Manual_Testing.xlsx, Planora-Mobile_Frontend-Manual_Testing.pdf
 The `Planora-Web_Frontend-Manual_Testing.xlsx` and `Planora-Mobile_Frontend-Manual_Testing.pdf` files contains comprehensive manual testing for the web, mobile frontend and for the backend.
 
-## Web Frontend Documentation: Planora-Web_Frontend-Documentation.pdf
-The `Planora-Web_Frontend-Documentation.pdf` file provides a detailed guide to the architecture and implementation of the web frontend.
+## Frontend Documentations: Planora-Web_Frontend-Documentation.pdf, Planora-Mobile_Frontend-Documentation.pdf
+The `Planora-Web_Frontend-Documentation.pdf` and `Planora-Mobile_Frontend-Documentation.pdf` files provides a detailed guide to the architecture and implementation of the web and mobile frontend.
