@@ -18,8 +18,8 @@ To import the database structure into your PostgreSQL instance, you can use the 
 psql -U your-username -f path/to/Planora-PostgreSQL_Dump.sql
 ```
 
-## Manual Tests: Planora-Web_Frontend-Manual_Testing.xlsx
-The `Planora-Web_Frontend-Manual_Testing.xlsx` file contains comprehensive manual testing for the web frontend and for the backend.
+## Manual Tests: Planora-Web_Frontend-Manual_Testing.xlsx, Planora-Mobile_Frontend-Manual_Testing.pdf
+The `Planora-Web_Frontend-Manual_Testing.xlsx` and `Planora-Mobile_Frontend-Manual_Testing.pdf` files contains comprehensive manual testing for the web, mobile frontend and for the backend.
 
 ## Web Frontend Documentation: Planora-Web_Frontend-Documentation.pdf
 The `Planora-Web_Frontend-Documentation.pdf` file provides a detailed guide to the architecture and implementation of the web frontend.
